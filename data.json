@@ -1,0 +1,39 @@
+{
+    "name": "Ylva",
+    "graduated": true,
+    "age": 28,
+    "courses": [
+        "English",
+        "History",
+        "Computer Science",
+        "Nursing"
+    ],
+    "city": "Heathrow",
+    "country": "England"
+},
+{
+    "name": "Debbie",
+    "graduated": false,
+    "age": 22,
+    "courses": [
+        "Maths",
+        "History",
+        "Computer Science",
+        "Nursing"
+    ],
+    "city": "Nairobi",
+    "country": "Kenya"
+},
+{
+    "name": "kip",
+    "graduated": false,
+    "age": 32,
+    "courses": [
+        "English",
+        "History",
+        "Computer Science",
+        "Coding"
+    ],
+    "city": "New York",
+    "country": "America"
+}
